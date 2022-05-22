@@ -1,8 +1,8 @@
 ﻿/* Programmer: Corey Ortega
  * Email:      cortega72@cnm.edu
- * date:       02/09/2022
- * program:    Gravitation.cs
- * purpose:    First quiz of the class - creating and using classes and methods
+ * date:       05/21/2022
+ * program:    CTO_CreatingCS.cs
+ * purpose:    First proj of the class - creating and using git-hub
  */
 
 using System;
@@ -18,7 +18,7 @@ namespace CTO_CreatingCS
         static void Main(string[] args)
         {
             string yourName = "Corey Ortega";
-            Console.WriteLine("Hello! My name is "+yourName);
+            Console.WriteLine("Hello! My name is "+yourName+"!\n");
         }
     }
 }
